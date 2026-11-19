@@ -1,15 +1,15 @@
 {
   "server": {
-    "name": "My DayZ Server",
-    "ip": "127.0.0.1",
-    "port": 2302,
+    "name": "The FrostlinerZ Server",
+    "ip": "37.156.35.56",
+    "port": 2902,
     "password": "",
     "battlemetricsId": "",
     "launchParams": ["-skipIntro"]
   },
   "links": {
-    "website": "https://example.com",
-    "discord": "https://discord.gg/yourinvite"
+    "website": "https://erangelz.com/",
+    "discord": "https://discord.gg/WYBzkymGUc"
   },
   "logoUrl": "https://raw.githubusercontent.com/ParolloLauncher/dayz-launcher-config/refs/heads/main/launcher-logo.jpeg",
   "announcements": [
