@@ -11,7 +11,7 @@
     "website": "https://example.com",
     "discord": "https://discord.gg/yourinvite"
   },
-  "logoUrl": "",
+  "logoUrl": "https://raw.githubusercontent.com/ParolloLauncher/dayz-launcher-config/refs/heads/main/launcher-logo.jpeg",
   "announcements": [
     { "title": "Welcome", "date": "2026-11-19", "body": "Welcome to the server.\nRules and news will appear here." }
   ],
