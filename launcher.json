@@ -1,25 +1,38 @@
 {
+  "launcher": {
+    "latestVersion": "1.0.0",
+    "downloadUrl": "https://github.com/ParolloLauncher/dayz-launcher-config/releases/latest"
+  },
   "server": {
     "name": "The FrostlinerZ Launcher",
     "ip": "37.156.35.56",
     "port": 2902,
+    "queryPort": 2903,
     "password": "",
-    "battlemetricsId": "36032365",
     "launchParams": ["-skipIntro"]
   },
   "links": {
     "website": "https://erangelz.com/",
     "discord": "https://discord.gg/WYBzkymGUc"
   },
-  "logoUrl": "https://raw.githubusercontent.com/ParolloLauncher/dayz-launcher-config/refs/heads/main/launcher-logo.jpeg",
   "announcements": [
-    { "title": "Welcome", "date": "2026-11-19", "body": "Welcome to the server.\nRules and news will appear here." }
+    {
+      "title": "Welcome to The FrostlinerZ",
+      "date": "2026-11-19",
+      "body": "Welcome to our Namalsk server! Check the Rules tab before playing and join our Discord for support."
+    }
+  ],
+  "rules": [
+    { "title": "1. No Cheating or Exploiting", "body": "Any form of hacking, glitching, or combat logging will result in a permanent ban." },
+    { "title": "2. Respect Other Players", "body": "No racism, hate speech, or toxicity in voice chat or Discord." },
+    { "title": "3. Base Building", "body": "Do not build inside military zones or block main roads." }
   ],
   "changelog": [
-    { "version": "1.0", "date": "2026-11-19", "changes": ["Server launch", "Added custom loot economy"] }
+    {
+      "version": "1.0",
+      "date": "2026-11-19",
+      "changes": ["Server launch", "Added custom loot economy"]
+    }
   ],
-  "mods": [
-    { "id": "1559212036", "name": "PAROLLO" },
-    { "id": "1564026768", "name": "Community Online Tools" }
-  ]
+  "mods": []
 }
