@@ -22,16 +22,26 @@
       "body": "Welcome to our Namalsk server! Check the Rules tab before playing and join our Discord for support."
     }
   ],
-  "rules": [
-    { "title": "1. No Cheating or Exploiting", "body": "Any form of hacking, glitching, or combat logging will result in a permanent ban." },
-    { "title": "2. Respect Other Players", "body": "No racism, hate speech, or toxicity in voice chat or Discord." },
-    { "title": "3. Base Building", "body": "Do not build inside military zones or block main roads." }
-  ],
   "changelog": [
     {
       "version": "1.0",
       "date": "2026-11-19",
       "changes": ["Server launch", "Added custom loot economy"]
+    }
+  ],
+  "rules": [
+    { "title": "1. No Cheating or Exploiting", "body": "Any form of hacking, glitching, or combat logging will result in a permanent ban." },
+    { "title": "2. Respect Other Players", "body": "No racism, hate speech, or toxicity in voice chat or Discord." },
+    { "title": "3. Base Building", "body": "Do not build inside military zones or block main roads." }
+  ],
+  "guides": [
+    {
+      "title": "Getting Started on Namalsk",
+      "body": "Make a fire early to stay warm and thaw frozen food before eating."
+    },
+    {
+      "title": "Keycards & Bunkers",
+      "body": "Find Tier 1–5 keycards in military zones to unlock high-tier loot rooms."
     }
   ],
   "mods": []
