@@ -1,6 +1,6 @@
 {
   "launcher": {
-    "latestVersion": "1.0.1",
+    "latestVersion": "1.0.2",
     "downloadUrl": "https://github.com/ParolloLauncher/dayz-launcher-config/releases/latest"
   },
   "server": {
@@ -44,5 +44,9 @@
       "body": "Find Tier 1–5 keycards in military zones to unlock high-tier loot rooms."
     }
   ],
-  "mods": []
+  "mods": [],
+  "restarts": {
+  "timezone": "Europe/London",
+  "hours": [0, 4, 8, 12, 16, 20]
+}
 }
