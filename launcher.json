@@ -1,10 +1,10 @@
 {
   "server": {
-    "name": "The FrostlinerZ Server",
+    "name": "The FrostlinerZ Launcher",
     "ip": "37.156.35.56",
     "port": 2902,
     "password": "",
-    "battlemetricsId": "",
+    "battlemetricsId": "36032365",
     "launchParams": ["-skipIntro"]
   },
   "links": {
@@ -19,7 +19,7 @@
     { "version": "1.0", "date": "2026-11-19", "changes": ["Server launch", "Added custom loot economy"] }
   ],
   "mods": [
-    { "id": "1559212036", "name": "CF" },
+    { "id": "1559212036", "name": "PAROLLO" },
     { "id": "1564026768", "name": "Community Online Tools" }
   ]
 }
