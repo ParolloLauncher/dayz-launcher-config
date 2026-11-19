@@ -1,0 +1,25 @@
+{
+  "server": {
+    "name": "My DayZ Server",
+    "ip": "127.0.0.1",
+    "port": 2302,
+    "password": "",
+    "battlemetricsId": "",
+    "launchParams": ["-skipIntro"]
+  },
+  "links": {
+    "website": "https://example.com",
+    "discord": "https://discord.gg/yourinvite"
+  },
+  "logoUrl": "",
+  "announcements": [
+    { "title": "Welcome", "date": "2026-11-19", "body": "Welcome to the server.\nRules and news will appear here." }
+  ],
+  "changelog": [
+    { "version": "1.0", "date": "2026-11-19", "changes": ["Server launch", "Added custom loot economy"] }
+  ],
+  "mods": [
+    { "id": "1559212036", "name": "CF" },
+    { "id": "1564026768", "name": "Community Online Tools" }
+  ]
+}
