@@ -95,6 +95,7 @@
   - During the move, you may have locks active on both the old and new bases, but the total combined number across both locations must not exceed 15.
   - After 3 hours, the old base must have ZERO code locks remaining (on both structures and storage).
   - Dismantle remaining old base structures or open a support ticket to have staff remove them.
+ ![BBP](https://raw.githubusercontent.com/ParolloLauncher/dayz-launcher-config/refs/heads/main/pictures/BaseBuilding_NARROW_CORRIDOR_RULE.png)
 
 ---
 
