@@ -42,7 +42,7 @@ Official desktop launcher for **The FrostlinerZ (Namalsk)** DayZ community serve
 ## Download & Installation
 
 1. Go to the **[Releases](https://github.com/YOUR-USERNAME/YOUR-REPO/releases)** page.
-2. Download **`TheFrostlinerZ-Launcher-Setup-1.0.3.exe`** (one-click installer that creates Desktop & Start Menu shortcuts).
+2. Download **`TheFrostlinerZ-Launcher-Setup.exe`** (one-click installer that creates Desktop & Start Menu shortcuts).
 3. Run the installer, enter your in-game nickname, and click **PLAY**.
 
 > **Note:** If Windows SmartScreen displays a warning on first launch, click **More info → Run anyway** (standard for unsigned community `.exe` builds).
