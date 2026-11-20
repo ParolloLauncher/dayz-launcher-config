@@ -1,4 +1,4 @@
-# Server Rules
+# The FrostlinerZ Server Rules
 
 ## General
 
