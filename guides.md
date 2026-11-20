@@ -1,6 +1,6 @@
 # Full Keys / Keycards & Locked Chests Guide
 
-(https://github.com/ParolloLauncher/dayz-launcher-config/blob/main/pictures/image.png?raw=true)
+![Full Keys](https://github.com/ParolloLauncher/dayz-launcher-config/blob/main/pictures/image.png?raw=true)
 
 ---
 
