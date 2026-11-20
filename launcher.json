@@ -1,7 +1,7 @@
 {
   "launcher": {
     "latestVersion": "1.0.3",
-    "downloadUrl": "https://github.com/ParolloLauncher/dayz-launcher-config/releases/latest"
+    "downloadUrl": "https://github.com/ParolloLauncher/dayz-launcher-config/releases/download/dayz-launcher/TheFrostlinerZ-Launcher-Setup-1.0.3.exe"
   },
   "server": {
     "name": "The FrostlinerZ Launcher",
