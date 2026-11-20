@@ -97,10 +97,10 @@ Before heading into a Vorkuta Raid, you should bring some keys with you—one of
 
 ---
 
-## T4 Athena-3 KeyCards
+## T5 Athena-3 KeyCards
 
 **Chests Spawning:**
-* T4 Locked Military Chests
+* T5 Locked Sci-Fi Chests
 
 ### Loot Table
 * 1x T4 Heavy Plate
