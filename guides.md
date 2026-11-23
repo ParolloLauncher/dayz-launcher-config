@@ -1,7 +1,7 @@
-## STARTER SHED
+# STARTER SHED
 Hello FrostlinerZ !
 
-STARTER SHED
+## STARTER SHED
 This is new mod made completely by me since the previous one from Nasdara was bugged.
 New shed comes with 100 slots and few rifle slots on wall .
 CodeLock mod compatible.
