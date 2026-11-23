@@ -1,20 +1,3 @@
-# FrostlinerZ Server Guides
-
----
-# Starter Shed
-
-This is a new mod made completely by me, since the previous one from Nasdara was bugged.
-
-- **Storage:** 100 slots and a few rifle slots on the wall.
-- **Security:** CodeLock mod compatible.
-- **Dismantling:** Can be dismantled with a screwdriver.
-- **Raiding:** 5-minute raid time with a hacksaw.
-- **Rule:** Please stick to the rule of **only 1 shed per team**; only the team leader can complete this quest.
-
-https://youtu.be/-m9-4RcSygE
-
----
-
 # Full Keys / KeyCards & Locked Chests Guide
 
 ![Full Keys](https://github.com/ParolloLauncher/dayz-launcher-config/blob/main/pictures/image.png?raw=true)
