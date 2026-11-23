@@ -1,5 +1,4 @@
 # STARTER SHED
-Hello FrostlinerZ !
 
 ## STARTER SHED
 This is new mod made completely by me since the previous one from Nasdara was bugged.
