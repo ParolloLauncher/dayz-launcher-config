@@ -1,10 +1,7 @@
-# STARTER SHED, VORKUTA, T2 CRATES
+## STARTER SHED
 Hello FrostlinerZ !
 
-```
 STARTER SHED
-```
-In todays update I added "Welcome Quest" back with Starter Shed.
 This is new mod made completely by me since the previous one from Nasdara was bugged.
 New shed comes with 100 slots and few rifle slots on wall .
 CodeLock mod compatible.
@@ -12,25 +9,7 @@ Can be dismantle with screwdriver.
 5 mins raid time with hacsaw.
 Please stick to the rule of only 1 shed per team; only team leader can complete this quest .
 
-```
-VORKUTA
-```
-Zombies rework - no spoilers !
 
-
-```
-T2 LOCKED CRATES
-```
-T2 Locked Crates are removed completely and replaced with T2 Open Crates- They look the same and spawn exactly the same loot.
-Amount of T2 Crates reduced by 80%.
-
-```
-HELI TERMINAL
-```
-Heli terminal redesign  to prevent people deploying heli on concrete structure- heli could spawn under it being blocked.
-Heli terminal moved a bit so you can safely deploy your helis on the snow terrain.
-
-Hope you have a great dayZ !
 https://youtu.be/-m9-4RcSygE
 
 # Full Keys / Keycards & Locked Chests Guide
