@@ -1,4 +1,4 @@
-# SPOILERS HERE !
+# CAREFULL SPOILERS HERE !
 ![Full Keys](https://github.com/ParolloLauncher/dayz-launcher-config/blob/main/pictures/image.png?raw=true)
 
 ---
