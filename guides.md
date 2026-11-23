@@ -121,3 +121,21 @@ Before heading into a Vorkuta Raid, you should bring some keys with you—includ
 All chests in A3 use the same random spawn point pool, so you will have to spend time finding them!
 
 ![Athena-3 Map / Locations](https://github.com/ParolloLauncher/dayz-launcher-config/blob/main/pictures/image13.png?raw=true)
+
+
+---
+# Starter Shed
+
+This is a new mod made completely by me, since the previous one from Nasdara was bugged.
+
+- **Storage:** 100 slots and a few rifle slots on the wall.
+- **Security:** CodeLock mod compatible.
+- **Dismantling:** Can be dismantled with a screwdriver.
+- **Raiding:** 5-minute raid time with a hacksaw.
+- **Rule:** Please stick to the rule of **only 1 shed per team**; only the team leader can complete this quest.
+
+https://youtu.be/-m9-4RcSygE
+
+---
+
+
