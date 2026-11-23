@@ -124,7 +124,7 @@ All chests in A3 use the same random spawn point pool, so you will have to spend
 
 
 ---
-# Starter Shed
+## Starter Shed
 
 This is a new mod made completely by me, since the previous one from Nasdara was bugged.
 
